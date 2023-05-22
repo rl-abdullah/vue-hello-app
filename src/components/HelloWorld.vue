@@ -2,7 +2,7 @@
   <div class="hello">
     <h1>{{ msg }}</h1>
     <p>
-      HelloWorld
+      HelloWorld. This is test for CI/CD
     </p>
   </div>
 </template>
